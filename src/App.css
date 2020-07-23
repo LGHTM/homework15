@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.users {
+  cursor: pointer;
+}
+
+.activeUser {
+  background-color: #61dafb;
+}
